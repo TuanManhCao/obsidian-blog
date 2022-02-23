@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "My idea of markdown publishing with Obsidian"
+date:   2022-02-21 
+categories: obsidian
+---
+
+
 
 So far there are people attempt to find alternative:
 - https://www.youtube.com/watch?v=PZ7r3Agdk8M
